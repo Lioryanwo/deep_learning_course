@@ -39,3 +39,5 @@ The repository is organized by specific assignment modules, reflecting a structu
 │
 └── Homework_#6_GRU_Stock_Prices/
     └── Code.ipynb                  # Time-series forecasting using Gated Recurrent Units (GRU)
+
+The repository was reorganized into separate homework folders with code and PDF files.
